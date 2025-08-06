@@ -1,0 +1,21 @@
+#home {
+    font-size: 28px;
+    color: white;
+}
+
+.navbar {
+    background-color: #0d6efd;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar button {
+    color: white;
+    background-color: white;
+}
+
+.navbar-nav:hover{
+    color: rgb(202, 195, 195);
+}
